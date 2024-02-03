@@ -1,0 +1,3 @@
+c:\users\manish\documents\visual studio 2015\Projects\API testing Examples\API testing Examples\bin\Debug\API testing Examples.exe.config
+c:\users\manish\documents\visual studio 2015\Projects\API testing Examples\API testing Examples\obj\Debug\API testing Examples.csprojResolveAssemblyReference.cache
+C:\Users\Manish\Documents\Myworkspace\API_Automation\API testing Examples\API testing Examples\obj\Debug\API testing Examples.csprojResolveAssemblyReference.cache
